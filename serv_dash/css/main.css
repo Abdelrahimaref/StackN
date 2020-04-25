@@ -304,6 +304,7 @@ h2 {
   font-size: 1.4rem;
   background-color: #ddd;
   margin-top: 0.5rem;
+  padding: 1.5rem;
 }
 .dropdown__content a {
   color: black !important;
